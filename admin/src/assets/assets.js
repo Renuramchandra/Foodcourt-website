@@ -15,5 +15,6 @@ export const assets ={
 }
 
 export const url = 'https://foodcourt-website-backend.onrender.com'
+export const currency = '₹'
 
 
